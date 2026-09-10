@@ -77,6 +77,7 @@ REST_FRAMEWORK = {
         "rest_framework.filters.SearchFilter",
         "rest_framework.filters.OrderingFilter",
     ],
+    "EXCEPTION_HANDLER": "catalog.exceptions.api_exception_handler",
 }
 
 CORS_ALLOWED_ORIGINS = [
