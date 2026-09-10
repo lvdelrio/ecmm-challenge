@@ -3,7 +3,7 @@
 Aplicación para administrar un catálogo de productos: API REST en Django + Django
 REST Framework, interfaz web en React (Vite) que la consume, base de datos SQLite.
 
-![CI](https://github.com/<usuario>/ecmm-challenge/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/lvdelrio/ecmm-challenge/actions/workflows/ci.yml/badge.svg)
 
 ## Alcance cubierto
 
